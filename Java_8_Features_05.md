@@ -11,7 +11,7 @@
 * stream()
 * filter()
 * map()
-* collect()
+* collect() 
 * count()
 * sorted()
 * sorted(Comparator)
