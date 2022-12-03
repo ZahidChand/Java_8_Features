@@ -1,4 +1,4 @@
-# Java 8 Inroduction: 123
+# Java 8 Inroduction:
 
 1. The main objective of java 8 is to enable functional programming in java so that just like another languages we can able to write very less code to do more things.
 
