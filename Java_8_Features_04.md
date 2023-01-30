@@ -1,4 +1,4 @@
-# default and static methods in java 8:  
+# default and static methods in java 8:
 
 until 1.7 version every method present inside an interface is always public and abstract.
 
